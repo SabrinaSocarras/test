@@ -1,0 +1,15 @@
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\bin\Debug\net8.0\Tomorrow.exe
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\bin\Debug\net8.0\Tomorrow.deps.json
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\bin\Debug\net8.0\Tomorrow.runtimeconfig.json
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\bin\Debug\net8.0\Tomorrow.dll
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\bin\Debug\net8.0\Tomorrow.pdb
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\Tomorrow.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\Tomorrow.AssemblyInfoInputs.cache
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\Tomorrow.AssemblyInfo.cs
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\Tomorrow.csproj.CoreCompileInputs.cache
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\Tomorrow.sourcelink.json
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\Tomorrow.dll
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\refint\Tomorrow.dll
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\Tomorrow.pdb
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\Tomorrow.genruntimeconfig.cache
+C:\Users\JUAN CARLOS\Desktop\workingcopies\SabrinaSocarras\test\Tomorrow\obj\Debug\net8.0\ref\Tomorrow.dll
